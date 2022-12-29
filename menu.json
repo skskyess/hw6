@@ -1,0 +1,32 @@
+{
+    "card_one": {
+        "zagolovok": "Zhaniya",
+        "desc": "inst:@skskyess",
+        "price": 5000000
+    },
+    "card_two": {
+        "zagolovok": "Tomiris",
+        "desc": "inst:@tomiedige",
+        "price": 5000000
+    },
+    "card_three": {
+        "zagolovok": "Shah",
+        "desc": "inst:@shahruhabd",
+        "price": 777
+    },
+    "card_four": {
+        "zagolovok": "Tore",
+        "desc": "inst:@tork1n",
+        "price": 555
+    },
+    "card_five": {
+        "zagolovok": "Artur",
+        "desc": "inst:@baebichh",
+        "price": 444
+    },
+    "card_six": {
+        "zagolovok": "Akbar",
+        "desc": "inst:@ak.kzkhmtv",
+        "price": 333
+    }
+}
